@@ -1,1 +1,1 @@
-# recommendation-system-using-collaborative-filtering
+# Implementing a Recommendation System on IMDB Dataset through Machine Learning Techniques
